@@ -1,7 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
 :root {
     font-size: 62.5%;
 }
-  
+
+* {
+    font-family: "Inter", sans-serif;
+}
+
 body {
     font-size: 1.6rem;
     background: oklch(20.8% 0.042 265.755);
